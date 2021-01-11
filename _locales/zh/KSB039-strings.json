@@ -1,0 +1,13 @@
+{
+	"KSB039|block": "KSB039",
+	"KSB039.Mic|block": "麥克風",
+	"KSB039.Slider|block": "滑桿",
+	"KSB039.Ultrasonic|block": "超音波測距(公分)",
+	"KSB039.RGB_LED1|block": "全彩燈1",
+	"KSB039.RGB_LED2|block": "全彩燈2",
+	"KSB039.RGB_LED3|block": "全彩燈3",
+	"KSB039.RGB_LED4|block": "全彩燈4",
+	"KSB039.RGB_LED|block": "全彩燈設定"
+	
+	
+}

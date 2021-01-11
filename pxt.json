@@ -1,23 +1,23 @@
 {
-    "name": "pxt-ksb039",
-    "version": "0.0.0",
-    "description": "",
+    "name": "KSB039",
+    "version": "0.1.0",
+    "description": "Extension for KAISE KSRobot KSB039 Sensor Board",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "neopixel": "github:microsoft/pxt-neopixel"
     },
     "files": [
+        "main.ts",
         "README.md",
-        "main.blocks",
-        "main.ts"
+        "_locales/zh/KSB039-strings.json"
     ],
     "testFiles": [
-        "test.ts"
+        "tests.ts"
     ],
     "public": true,
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
